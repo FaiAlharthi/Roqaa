@@ -64,7 +64,3 @@ Help children with amblyopia strengthen their weaker eye through gamified focus 
 ## 📝 Notes
 
 This game is not a replacement for medical treatment. It's a **daily training support tool** to be used alongside medical advice and eye patching routines.
-
----
-
-Made with ❤️ by Fai
