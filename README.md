@@ -39,7 +39,10 @@ Kids are encouraged to complete all three levels **daily** as part of their ther
 - Friendly cartoon mascot (fox with an eye patch)  
 - Motivating voice feedback to encourage repeated training  
 
-![Fox Character](./Screenshot%201446-10-23%20at%2011.49.04%E2%80%AFPM.png)
+<p align="center">
+  <img src="./RoqaaFox.png" alt="Fox Character" width="250"/>
+</p>
+
 
 ---
 
