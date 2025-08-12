@@ -43,6 +43,11 @@ Kids are encouraged to complete all three levels **daily** as part of their ther
   <img src="./RoqaaFox.png" alt="Fox Character" width="250"/>
 </p>
 
+## 🎥 Gameplay – Level 1
+<p align="center">
+  <img src="./Level1.gif" alt="Level 1 Demo" width="500"/>
+</p>
+
 
 ---
 
